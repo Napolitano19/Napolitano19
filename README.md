@@ -1,18 +1,19 @@
-### Hi there 👋
+## Hello World
+### Me chamo Kawan Gabriel 👋
+***
+Muito prazer, sou um aspirante a programador indo pelo caminho do front-end... &#x1F341;
 
-<!--
-**Napolitano19/Napolitano19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minha ideia inicial seria full stack, porém aprendi que é um termo que se adapta ao quanto você conhece em meio ao lugar que você trabalha..
 
-Here are some ideas to get you started:
+### Hoje tenho alguns objetivos como base:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Me formar
+2. Ter inglês intermediário/avançado
+3. Poder ver uma aurora boreal
+4. Pós em CiberSegurança? Por que não..
 
-#### About me
+*Vou montando aos poucos esse portífolio*
+***
+Estou fazendo um teste digitando pelo VsCode, então professor, se você acabou de ler isso.. hora hora **deu certo** shshs
+***
+Vou deixar um guia que achei no Curso em Vídeo em PDF aqui [Link com guia em pdf sobre Markdown] (https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
