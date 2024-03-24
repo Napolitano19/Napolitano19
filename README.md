@@ -17,3 +17,9 @@ Minha ideia inicial seria full stack, porém aprendi que é um termo que se adap
 Estou fazendo um teste digitando pelo VsCode, então professor, se você acabou de ler isso.. hora hora **deu certo** shshs
 ***
 Vou deixar um guia que achei no Curso em Vídeo em PDF aqui [Link com guia em pdf sobre Markdown] (https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+
+<br>
+<p align="center">
+  <a href="https://github.com/Napolitano19"><img src="https://github-readme-stats.vercel.app/api?username=Napolitano19&hide_border=true&show_icons=true&theme=dark" alt="edisonlee55's github stats"></a>
+</p>
+<br>
